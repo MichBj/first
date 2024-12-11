@@ -1,0 +1,14 @@
+c:\Users\ll M ll\Documents\c#\first\obj\Debug\net9.0\first.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ll M ll\Documents\c#\first\obj\Debug\net9.0\first.AssemblyInfoInputs.cache
+c:\Users\ll M ll\Documents\c#\first\obj\Debug\net9.0\first.AssemblyInfo.cs
+c:\Users\ll M ll\Documents\c#\first\obj\Debug\net9.0\first.csproj.CoreCompileInputs.cache
+c:\Users\ll M ll\Documents\c#\first\bin\Debug\net9.0\first.exe
+C:\Users\ll M ll\Documents\c#\first\bin\Debug\net9.0\first.deps.json
+C:\Users\ll M ll\Documents\c#\first\bin\Debug\net9.0\first.runtimeconfig.json
+c:\Users\ll M ll\Documents\c#\first\bin\Debug\net9.0\first.dll
+c:\Users\ll M ll\Documents\c#\first\bin\Debug\net9.0\first.pdb
+c:\Users\ll M ll\Documents\c#\first\obj\Debug\net9.0\first.dll
+c:\Users\ll M ll\Documents\c#\first\obj\Debug\net9.0\refint\first.dll
+c:\Users\ll M ll\Documents\c#\first\obj\Debug\net9.0\first.pdb
+C:\Users\ll M ll\Documents\c#\first\obj\Debug\net9.0\first.genruntimeconfig.cache
+C:\Users\ll M ll\Documents\c#\first\obj\Debug\net9.0\ref\first.dll
